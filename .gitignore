@@ -1,0 +1,8 @@
+.direnv/
+.mypy_cache/
+.pyre/
+.pytype/
+/env/
+/zict/
+aio_socket
+node_modules/

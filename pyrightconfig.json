@@ -1,0 +1,13 @@
+{
+  "include": [
+    "zict"
+  ],
+
+  "exclude": [
+    "env/**",
+    "**/node_modules",
+    "**/__pycache__",
+    "**/tests/**"
+  ],
+  "reportMissingImports": false,
+}
