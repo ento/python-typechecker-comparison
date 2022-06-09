@@ -1,0 +1,13 @@
+# typecheckers - pyre is installed by Nix, pyright is installed by Node
+mypy
+pytype
+
+# buffered_tail.py
+aiohttp
+
+# zict's deps
+pytest
+flake8
+black
+heapdict
+lmdb
